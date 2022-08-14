@@ -59,3 +59,16 @@ Pubg|78$|Top2
 ## 超链接
 [Bilibili弹幕网](https://www.bilibili.com "点击进入B站")
 [百度搜索](https://www.baidu.com "点击进入")
+
+## 插入代码片段
+```c
+#include <stdio.h>
+int main()
+{
+  printf("hello world\n");
+  return 0;
+}
+```
+
+```cpp
+```
